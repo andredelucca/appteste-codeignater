@@ -1,0 +1,10 @@
+{
+    "name": "vendas02/app-codeignater",
+    "authors": [
+        {
+            "name": "Vendas 02",
+            "email": "andre.delucca80@gmail.com"
+        }
+    ],
+    "require": {}
+}
